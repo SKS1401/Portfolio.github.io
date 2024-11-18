@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: SKS1401
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Srabasti Karmaker 
+last_name: Shoibo
 
 # Status emoji
 status:
@@ -20,36 +20,31 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: CSE Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Jahangirnagar University
+    url: https://juniv.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'srabosti.k@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  
+ 
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/SKS1401
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/srabosti-karmaker-449911328/
+  
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Full Stack Web Development
+  - Data Science
 
 education:
   - area: PhD Artificial Intelligence
