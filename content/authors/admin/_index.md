@@ -37,8 +37,10 @@ profiles:
  
   - icon: brands/github
     url: https://github.com/SKS1401
+    label: Github Profile
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/srabosti-karmaker-449911328/
+    url: https://www.linkedin.com/in/srabosti-karmaker-449911328/ 
+    label: LinkdIn Profile
   
 
 interests:
@@ -47,37 +49,27 @@ interests:
   - Data Science
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc in Computer Science and Engineering
+    institution: Jahangirnagar University
+    date_start: 2022-05-31
+    date_end: 2025-12-31
+   
+  - area: HSC
+    institution: Brindaban Govt. College
+    date_start: 2018-01-01
+    date_end: 2020-03-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 5.0/5.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: SSC
+    institution: B,K,G,C Govt. Girls High School
+    date_start: 2010-01-01
+    date_end: 2018-12-31
+    summary: |
+      GPA: 5.0/5.0
+      
+     
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
